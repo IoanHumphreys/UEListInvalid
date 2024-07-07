@@ -27,6 +27,7 @@ UEListInvalid is a utility designed to streamline the process of identifying and
 
 ## Author
 - ioan_123
+- creation_blender
 
 ### Notes:
 - **Compatibility:** UEListInvalid is compatible with Unreal Engine projects that generate log files containing validation errors related to actors.
